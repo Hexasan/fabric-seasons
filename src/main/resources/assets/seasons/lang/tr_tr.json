@@ -1,0 +1,24 @@
+{
+  "tooltip.seasons.spring": "İlkbahar",
+  "tooltip.seasons.summer": "Yaz",
+  "tooltip.seasons.fall": "Sonbahar",
+  "tooltip.seasons.winter": "Kış",
+  "tooltip.seasons.faster_grow": "Bu mevsim daha hızlı büyür",
+  "tooltip.seasons.normal_grow": "Bu mevsim normal hızda büyür",
+  "tooltip.seasons.slowed_grow": "Bu mevsim daha yavaş büyür",
+  "tooltip.seasons.not_grow": "Bu mevsim büyüyemez",
+  "tooltip.seasons.show_more": "Daha fazla göstermek için %s",
+  "tooltip.seasons.season_delimitator": ": ",
+  "tooltip.seasons.season_speed": "%s%s%s%% hız",
+  "tooltip.seasons.combined_grow": "%s (%s%%)",
+
+  "chat.seasons.mod_installed": "%s yüklemişsin gibi duruyor!",
+  "chat.seasons.compatibility": "Bu addon, tam Fabric Seasons uyumluluğu sağlar.",
+  "chat.seasons.mod_not_installed": "%s yüklememişsin gibi duruyor!",
+  "chat.seasons.extras": "Mecaranızda işe yarayacak özel blok ve eşyalar elde edin addon yüklendi.",
+  "chat.seasons.available_at": "Available at: ",
+  "chat.seasons.show_once": "Bu mesaj bir kere gözükecek.",
+
+  "commands.seasons.query_1": "Şu anki mevsim %s.",
+  "commands.seasons.query_2": "%3$s olmasına %2$s gün (%3$s birim zaman[tick]) var"
+}
